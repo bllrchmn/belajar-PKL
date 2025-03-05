@@ -100,7 +100,7 @@ $hari = 2;
 echo "<div class='section'><strong>9. Struktur Logika Switch</strong><br>";
 switch ($hari) {
     case 1:
-        echo "Senin";
+        echo "Minggu";
         break;
     case 2:
         echo "Selasa";
